@@ -34,15 +34,23 @@ Once the streamlit page opens you can upload your PDF file and click "process yo
 
 ## Update your .env 
 
-OPENAI_API_BASE: Your OpenAI API base URL.
-OPENAI_API_KEY: Your OpenAI API key.
-OPENAI_API_VERSION: Your OpenAI API version.
-AZURE_COGNITIVE_SEARCH_SERVICE_NAME: Your Azure Cognitive Search service name.
-AZURE_COGNITIVE_SEARCH_API_KEY: Your Azure Cognitive Search API key.
-FORM_RECOGNIZER_ENDPOINT: Your Azure Form Recognizer endpoint.
-FORM_RECOGNIZER_KEY: Your Azure Form Recognizer key.
-AZURE_STORAGE_CONNECTION_STRING: Your Azure Storage connection string.
-AZURE_STORAGE_CONTAINER: Your Azure Storage container name.
-You can set these variables in your .env file.
+`OPENAI_API_BASE: Your OpenAI API base URL 
+
+OPENAI_API_KEY: Your OpenAI API key 
+
+OPENAI_API_VERSION: Your OpenAI API version 
+
+AZURE_COGNITIVE_SEARCH_SERVICE_NAME: Your Azure Cognitive Search service name 
+
+AZURE_COGNITIVE_SEARCH_API_KEY: Your Azure Cognitive Search API key 
+
+FORM_RECOGNIZER_ENDPOINT: Your Azure Form Recognizer endpoint 
+
+FORM_RECOGNIZER_KEY: Your Azure Form Recognizer key 
+
+AZURE_STORAGE_CONNECTION_STRING: Your Azure Storage connection string 
+
+AZURE_STORAGE_CONTAINER: Your Azure Storage container name` 
+
 
 
