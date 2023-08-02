@@ -18,10 +18,11 @@ Retrieve relevant document chunks in response to user queries, using a chat inte
 
 ## install Packages
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Run the app
-streamlit run app.py
+
+`streamlit run app.py`
 
 Once the streamlit page opens you can upload your PDF file and click "process your docs" to kick off the process of:
 
